@@ -1,1 +1,4 @@
-# Mostra Steam - Temas - 11 e 12
+# Mostra Steam - Temas:
+Campanha das ilhas de Salomão - Guadalcanal
+Batalha de midway - ponto de virada no pacpifico
+
