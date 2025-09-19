@@ -1,5 +1,5 @@
 # Mostra Steam - Temas:
-<h3>Campanha das ilhas de Salomão - Guadalcanal</h3> ✈️🌊🌱🇺🇸🗾
+<h3>Campanha das ilhas de Salomão - Guadalcanal</h3> ✈️🌊🌱
 A Batalha de Guadalcanal (1942-1943) foi a primeira grande ofensiva aliada contra o Japão no Pacífico.<br><br>
 O site contém infromações sobre: 
 <ul>
@@ -9,7 +9,7 @@ O site contém infromações sobre:
   <li>e outros detalhes</li>
 </ul>
 
-<h3>Batalha de Midway - ponto de virada no pacifico</h3>🌊🇺🇸🗾
+<h3>Batalha de Midway - ponto de virada no pacifico</h3>🌊
 A Batalha de Midway (junho de 1942) foi um ponto de virada no Pacífico, onde os EUA destruíram a frota de porta-aviões japonesa. Essa vitória decisiva enfraqueceu o Japão e deu início à ofensiva aliada no Pacífico.<br><br>
 O site contém infromações sobre: 
 <ul>
